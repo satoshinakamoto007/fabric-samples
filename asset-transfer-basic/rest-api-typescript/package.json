@@ -8,7 +8,7 @@
     "npm": ">=5"
   },
   "dependencies": {
-    "bullmq": "^1.47.2",
+    "bullmq": "^1.54.5",
     "dotenv": "^10.0.0",
     "env-var": "^7.0.1",
     "express": "^4.17.1",
