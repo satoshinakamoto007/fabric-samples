@@ -20,10 +20,10 @@
     },
     "devDependencies": {
         "chai": "^4.2.0",
-        "eslint": "^5.9.0",
-        "mocha": "^5.2.0",
+        "eslint": "^9.26.0",
+        "mocha": "^10.6.0",
         "nyc": "^13.1.0",
-        "sinon": "^7.1.1",
+        "sinon": "^16.1.2",
         "sinon-chai": "^3.3.0"
     },
     "nyc": {
