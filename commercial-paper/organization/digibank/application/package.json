@@ -12,9 +12,9 @@
   "dependencies": {
     "fabric-network": "^2.2.4",
     "fabric-ca-client": "^2.2.4",
-    "js-yaml": "^3.12.0"
+    "js-yaml": "^4.1.1"
   },
   "devDependencies": {
-    "eslint": "^5.6.0"
+    "eslint": "^9.0.0"
   }
 }
